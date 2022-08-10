@@ -1,0 +1,11 @@
+Atividade Aqr.Software - 2.0 pontos Bimestral 
+
+▪ Atividade prática com valor de 2,0 pontos na nota do bimestre;
+▪ Atenção: quem não realizar a atividade poderá fazer a avaliação prática no dia daprova teórica;
+▪ Formar equipes de 2 a 4 alunos;
+▪ Definir um tema de trabalho para a equipe e com base no tema identificar um cenáriodo processo de desenvolvimento que seja necessário a aplicação de abordagemarquitetural para solucionar;
+▪ Dica: considere a discussão da aula de introdução de que a arquitetura não sepreocupa em solucionar o aspecto concreto do problema com abordagem exclusiva,mas sim resolver de forma genérica/abstrata os problemas identificados;
+▪ Encaminhar para o e-mail geucimar@up.edu.br, a turma, horário, integrantes da equipe,tema e qual cenário que será estudado.
+
+Ideia: Inspirada na minha rotina de trabalho. O grupo funcionará como um grupo de consultoria para solucionar os problemas
+estruturais que uma empresa de softwares está enfrentando com o seu recém-lançado sistema para gestão de restaurantes 
