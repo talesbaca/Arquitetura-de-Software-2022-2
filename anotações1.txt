@@ -1,0 +1,14 @@
+Anotações: 
+
+10 requisitos não funcionais que resumem a arquitetura de software
+
+1 . Usabilidade
+2 . Confiabilidade
+3 . portabilidade
+4 . Efiência
+5 . Segurança
+6 . Reusabilidade
+7 . Capabilidade
+8 . Escalabilidade
+9 . Manutenabilidade
+10 . Disponibilidade 
