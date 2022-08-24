@@ -1,0 +1,19 @@
+Atividade prática
+
+Montar a visão funcional(parte do diagrama de casos de uso) para a situação:
+
+Sub-sistemas:
+  * CMS
+  * e-commerce
+  * rede social
+  * chat
+
+Quais são as funcionalidades?
+ - Criação e edição de páginas
+ - Realizar vendas
+ - Realizar pagamento
+ - Relacionar usuários
+ - Enviar/Receber mensagem instantânea 
+ - Realizar postagem 
+ - Consultar produtos
+ - Armazenar midias 
