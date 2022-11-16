@@ -13,6 +13,6 @@ public class TubetsDecorator extends Decorator {
 	}
  
 	public double getPreco() {
-		return pizza.getPreco() + 2.5; 
+		return sorvete.getPreco() + 2.5; 
 	}
 }
