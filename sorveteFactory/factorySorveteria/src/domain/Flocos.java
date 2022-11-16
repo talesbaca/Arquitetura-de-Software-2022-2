@@ -7,7 +7,7 @@ public class Flocos implements Sorvete {
 
     public Flocos() {
         super();
-        this.estaDisponivel = true;
+        this.estaDisponivel = false;
     }
 
     @Override
@@ -32,7 +32,7 @@ public class Flocos implements Sorvete {
 
     @Override
     public void repor() {
-        this.estaDisponivel = false;
+        this.estaDisponivel = true;
     }
     
 }
