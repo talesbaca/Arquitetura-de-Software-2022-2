@@ -9,7 +9,7 @@ public class SorveteApp {
 		//Cria a fábrica.
 		Factory factory = new IceCreamFactory();
 		
-		//Cria um animal de estimação.
+		//Cria um objeto sorvete.
 		Sorvete sorvete = factory.makeIceCream("Flocos");
 		sorvete.setNome("Flocos");
         if(!sorvete.estaDisponivel()){
