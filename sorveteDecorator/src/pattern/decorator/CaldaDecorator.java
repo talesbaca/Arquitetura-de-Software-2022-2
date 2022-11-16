@@ -13,6 +13,6 @@ public class CaldaDecorator extends Decorator {
 	}
  
 	public double getPreco() {
-		return pizza.getPreco() + 1.75; 
+		return sorvete.getPreco() + 1.75; 
 	}
 }
