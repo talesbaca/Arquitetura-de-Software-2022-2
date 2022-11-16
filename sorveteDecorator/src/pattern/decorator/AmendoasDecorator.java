@@ -13,6 +13,6 @@ public class AmendoasDecorator extends Decorator {
 	}
  
 	public double getPreco() {
-		return pizza.getPreco() + 0.75; 
+		return sorvete.getPreco() + 0.75; 
 	}
 }
