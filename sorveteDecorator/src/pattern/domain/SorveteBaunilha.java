@@ -2,7 +2,7 @@ package pattern.domain;
 
 public class SorveteBaunilha extends Sorvete {
   
-	public SorveteComCalda() {
+	public SorveteBaunilha() {
 		detalhes = "Sorvete de 120g sabor baunilha ";
 	}
   
