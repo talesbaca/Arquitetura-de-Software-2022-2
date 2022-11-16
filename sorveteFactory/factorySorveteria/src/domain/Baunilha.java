@@ -7,7 +7,7 @@ public class Baunilha implements Sorvete {
 
     public Baunilha() {
         super();
-        this.estaDisponivel = true;
+        this.estaDisponivel = false;
     }
 
     @Override
@@ -32,6 +32,6 @@ public class Baunilha implements Sorvete {
 
     @Override
     public void repor() {
-        this.estaDisponivel = false;
+        this.estaDisponivel = true;
     }
 }
